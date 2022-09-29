@@ -4,7 +4,7 @@
 - 📫 groobytt@gmail.co
 --------------------------------------------------
          👀  PORTFOLIO  👀 
->> mttt7.github.io/landingpage <<<
+>>> mttt7.github.io/landingpage <<<
 --------------------------------------------------
 
 <!---
