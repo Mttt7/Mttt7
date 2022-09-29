@@ -5,7 +5,7 @@
 
 
 
-[PORTFOLIO](mttt7.github.io/landingpage)
+[PORTFOLIO]([mttt7.github.io/landingpage](https://mttt7.github.io/landingpage/))
 
           
 
