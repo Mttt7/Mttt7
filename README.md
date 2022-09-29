@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Mttt7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript and C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 groobytt@gmail.com
+- 
+- 🌱 I’m currently learning JavaScript and Java
+- 📫 groobytt@gmail.co
+--------------------------------------------------
+         👀  PORTFOLIO  👀 
+>> mttt7.github.io/landingpage <<<
+--------------------------------------------------
 
 <!---
 Mttt7/Mttt7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
