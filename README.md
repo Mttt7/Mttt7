@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning JavaScript and Java
 - 📫 groobytt@gmail.co
 --------------------------------------------------
-         👀  PORTFOLIO  👀 
->>> mttt7.github.io/landingpage <<<
+                  👀  PORTFOLIO  👀 
+             mttt7.github.io/landingpage 
 --------------------------------------------------
 
 <!---
