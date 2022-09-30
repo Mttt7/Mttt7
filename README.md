@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Mttt7
-- 
 - 🌱 I’m currently learning JavaScript and Java
 - 📫 groobytt@gmail.com
 
-
-
-[PORTFOLIO]([mttt7.github.io/landingpage](https://mttt7.github.io/landingpage/))
+[PORTFOLIO](http://mttt7.github.io/landingpage)
 
           
 
