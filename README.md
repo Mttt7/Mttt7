@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mttt7.github.io/landingpage/](https://mttt7.github.io/landingpage/)
 
-- 📫 How to reach me **groobytt@gmail.com**
+- 📫 How to reach me **michalttomaszewski02@gmail.com**
 
 - 🤖 **An inefficient virus kills its host. A clever virus stays with it.**
 
