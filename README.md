@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **? ? ?**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 🎓 I’m currently studying at the Lublin University of Technology in the field of CS
 
 - 👨‍💻 All of my projects are available at [https://mttt7.github.io/landingpage/](https://mttt7.github.io/landingpage/)
 
