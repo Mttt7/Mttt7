@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **michalttomaszewski02@gmail.com**
 
-- 🤖 **An inefficient virus kills its host. A clever virus stays with it.**
+- 🤖 **A mistake repeated more than once is a decision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
