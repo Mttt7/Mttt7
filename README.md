@@ -7,7 +7,7 @@
 
 - 🎓 I’m currently studying at the Lublin University of Technology in the field of CS
 
-- 👨‍💻 All of my projects are available at [https://mttt7.github.io/portfolio/](https://mttt7.github.io/landingpage/)
+- 👨‍💻 All of my projects are available at [  PORTFOLIO  ]([https://mttt7.github.io/landingpage/](https://mttt7.github.io/portfolio/))
 
 - 📫 How to reach me **michalttomaszewski02@gmail.com**
 
