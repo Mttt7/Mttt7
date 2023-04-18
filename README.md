@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mtt.jpeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mtt.jpeg" height="30" width="40" /></a>
+<a href="[https://instagram.com/mtt.jpeg](https://www.linkedin.com/in/micha%C5%82-tomaszewski-858303271/)" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedIN" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
