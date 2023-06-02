@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently learning **Angular**, **MongoDB** and **NodeJS**
+- 🔭 I’m currently working on **Clinic Manager** project.
 
 - 🎓 I’m currently studying at the Lublin University of Technology in the field of CS
 
