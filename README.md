@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">A passionate Web Developer from Poland</h3>
 
-
-
-- 🔭 I’m currently working on **Clinic Manager** project.
-
 - 🎓 I’m currently studying at the Lublin University of Technology in the field of CS
 
 - 👨‍💻 My best  projects are available at **https://mttt7.github.io/portfolio/**
