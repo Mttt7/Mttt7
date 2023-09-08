@@ -4,7 +4,7 @@
 - 🎓 I’m currently studying at the Lublin University of Technology in the field of CS
 
 - 👨‍💻 My best  projects are available at
-- ## **[mtomaszewski.net.pl](http://mtomaszewski.net.pl)**
+ # ⭐ [mtomaszewski.net.pl](http://mtomaszewski.net.pl) ⭐
 
 - 📫 How to reach me **michalttomaszewski02@gmail.com**
 
