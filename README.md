@@ -4,14 +4,20 @@
 - 🎓 I’m currently studying at the Lublin University of Technology in the field of CS
 
 
- # 👨‍💻 [mtomaszewski.net.pl](http://mtomaszewski.net.pl) 👨‍💻
+ # <div align="center"> 👨‍💻 [mtomaszewski.net.pl](http://mtomaszewski.net.pl) 👨‍💻 </div>
 
-- 📫 How to reach me **michalttomaszewski02@gmail.com**
+
 
 - 🤖 **A mistake repeated more than once is a decision**
 <h3>Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/micha%C5%82-tomaszewski-858303271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/michał-tomaszewski-858303271" height="30" width="40" /></a>
+<div align="center"> 
+ 
+michalttomaszewski02@gmail.com
+ 
+[linkedin.com/michał-tomaszewski](https://www.linkedin.com/in/michał-tomaszewski-858303271/)
+
+</div>
+
 
 <h2 align="left">Languages and Tools:</h2>
 
