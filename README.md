@@ -4,7 +4,7 @@
 - 🎓 I’m currently studying at the Lublin University of Technology in the field of CS
 
 
- # <div align="center"> 👨‍💻 [mtomaszewski.net.pl](http://mtomaszewski.net.pl) 👨‍💻 </div>
+# <div align="center"> 👨‍💻 [mtomaszewski.net.pl](https://peaceful-nasturtium-3555b0.netlify.app/) 👨‍💻 </div>
 
 
 
