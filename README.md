@@ -12,7 +12,7 @@
 <h3>Connect with me:</h3>
 <div align="center"> 
  
-✉️ michalttomaszewski02@gmail.com ✉️
+# <div align="center"> ✉️ michalttomaszewski02@gmail.com ✉️ </div>
  
 [linkedin.com/michał-tomaszewski](https://www.linkedin.com/in/michał-tomaszewski-858303271/)
 
