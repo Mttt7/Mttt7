@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Michał</h1>
+<h1 align="center" >Hi 👋, I'm Michał </h1>
+<div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:240px;"></div>
+
 <h3 align="center">A passionate Web Developer from Poland</h3>
 
 - 🎓 I’m currently studying at the Lublin University of Technology in the field of CS
@@ -6,16 +8,9 @@
 
 # <div align="center"> 👨‍💻 [mtomaszewski.net.pl](https://mtomaszewski.net.pl) 👨‍💻 </div>
 
-
-
-- 🤖 **A mistake repeated more than once is a decision**
 <h3>Connect with me:</h3>
 <div align="center"> 
- 
-# <div align="center"> ✉️ michalttomaszewski02@gmail.com ✉️ </div>
- 
-[linkedin.com/michał-tomaszewski](https://www.linkedin.com/in/michał-tomaszewski-858303271/)
-
+<h4> ✉️ michalttomaszewski02@gmail.com ✉️ </h4>
 </div>
 
 
