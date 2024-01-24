@@ -5,7 +5,7 @@
 
 - 🎓 I’m currently studying at the Lublin University of Technology in the field of CS
 
-
+# <div align="center"> 👨‍💻 PORTFOLIO 👨‍💻 </div>
 # <div align="center"> 👨‍💻 [mtomaszewski.net.pl](https://mtomaszewski.net.pl) 👨‍💻 </div>
 
 <h3>Connect with me:</h3>
