@@ -4,6 +4,7 @@
 <h3 align="center">A passionate Web Developer from Poland</h3>
 
 - 🎓 I’m currently studying at the Lublin University of Technology in the field of CS
+- 💼 I currently work as a Fullstack Developer (Spring Boot + Angular + PostgreSQL) at a software company, building enterprise systems that support clinical trial management.
 
 <h3 align="center">⬇️ Contact ⬇️</h3>
 <div align="center"> 
