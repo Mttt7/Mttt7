@@ -26,3 +26,5 @@
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 </div>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mttt7)
