@@ -20,10 +20,18 @@
   <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" height="50" /></a>
 </div>
 
+
 <h4 align="left">🌱 Learning in free time:</h4>
-<div align="center">
-  <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" height="50" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 14px;">
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="50" />
+  </a>
+
+  <span style="font-size: 36px; font-weight: bold; display: flex; align-items: center;">+</span>
+
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" height="50" />
+  </a>
 </div>
 
 
