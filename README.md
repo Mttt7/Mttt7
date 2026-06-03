@@ -11,6 +11,12 @@
 <h4> ✉️ michalttomaszewski02@gmail.com ✉️ </h4>
 </div>
 
+
+<h4>MojeDziecko+ live on App Store:</h4>
+<img width="200" height="200" alt="ok" src="https://github.com/user-attachments/assets/f1bba2bb-2b1d-4620-9fb2-4eec8d45bad0" />
+
+[MojeDzieko+ AppStore](https://apps.apple.com/pl/app/mojedziecko/id6761675554?l=pl)
+
 <h2 align="left">Languages and Tools:</h2>
 
 <h4 align="left">💼 Working with:</h4>
@@ -19,7 +25,6 @@
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
   <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" height="50" /></a>
 </div>
-
 
 <h4 align="left">🌱 Learning in free time:</h4>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 14px;">
