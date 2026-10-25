@@ -1,23 +1,42 @@
+<div align="center">
 
-<h3 align="center">https://www.mttt.eu</h3>
+# Michał Tomaszewski
 
-- 🎓 I’m currently studying at the Lublin University of Technology in the field of CS
-- 💼 I currently work as a Fullstack Developer (Spring Boot + Angular + PostgreSQL) at a software company, building enterprise systems that support clinical trial management.
+### Fullstack Developer
 
-<h3 align="center">⬇️ Contact ⬇️</h3>
-<div align="center"> 
-<h4> ✉️ michalttomaszewski02@gmail.com ✉️ </h4>
-</div>
+<h1>
+  <a href="https://www.mttt.eu">🌐 mttt.eu</a>
+</h1>
 
-
-<h2 align="left">Languages and Tools:</h2>
-
-<h4 align="left">💼 Working with:</h4>
-<div align="center"> 
-  <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="50" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-  <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" height="50" /></a>
-</div>
+Building modern web applications with **Spring Boot, Angular & PostgreSQL**.
 
 </div>
 
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Computer Science** student at Lublin University of Technology
+- 💼 **Fullstack Developer** working on enterprise applications for clinical trial management
+- ⚡ Passionate about building scalable, efficient and user-friendly software
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,postgres,git,docker&theme=dark" alt="Tech Stack" />
+
+</div>
+
+### 📬 Get in Touch
+
+<div align="center">
+
+<a href="mailto:michalttomaszewski02@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.mttt.eu">
+  <img src="https://img.shields.io/badge/Website-mttt.eu-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
