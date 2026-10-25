@@ -19,18 +19,5 @@
   <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" height="50" /></a>
 </div>
 
-<h4 align="left">🌱 Learning in free time:</h4>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 14px;">
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="50" />
-  </a>
-
-  <span style="font-size: 36px; font-weight: bold; display: flex; align-items: center;">+</span>
-
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" height="50" />
-  </a>
 </div>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mttt7)
